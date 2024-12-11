@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application de Nouvelles de Guardian</string>
+    <string name="save_favorite">Enregistrer dans les favoris</string>
+    <string name="article_deleted">Article supprimé</string>
+    <string name="no_articles_found">Aucun article trouvé</string>
+</resources>
